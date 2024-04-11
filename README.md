@@ -4,7 +4,7 @@
 🤖 BSc in [AI and Robotics](https://courses.aber.ac.uk/undergraduate/artificial-intelligence-roboticsdegree/) from Aberystwyth University  
 🏆 Recipient of the Academic Excellence Scholarship  
 🖥️ Skilled in Software Development, Web Development, OOP, Robotics and more!  
-🌱 Currently learning **PHP**
+🌱 Currently learning **PHP** and **Laravel** [laravel-notes-app](https://github.com/J-arv1s/laravel-app)
 
 ---
 
