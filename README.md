@@ -1,6 +1,6 @@
 # 👋 J-arv1s
 
-🎓 **Recent Graduate** actively seeking my first professional developer role.  
+🎓 **Recent Graduate** actively seeking my first professional role.  
 🤖 BSc in [AI and Robotics](https://courses.aber.ac.uk/undergraduate/artificial-intelligence-roboticsdegree/) from Aberystwyth University  
 🏆 Recipient of the Academic Excellence Scholarship  
 🖥️ Skilled in Software Development, Web Development, OOP, Robotics and more!  
